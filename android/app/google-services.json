@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "325898949259",
+    "project_id": "wc-salary",
+    "storage_bucket": "wc-salary.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325898949259:android:7d0f7c9f879d14eee5ba8e",
+        "android_client_info": {
+          "package_name": "com.example.wc_salary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325898949259-j7tefht4l3qcp7c5qjaj8l7vi86fodqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA_Mmnw5QSsi6ZpggavX-EvjtWiVHbV7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325898949259-j7tefht4l3qcp7c5qjaj8l7vi86fodqt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "325898949259-72q7n9uem3pebgqmkl5kmaq263mggusi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wcSalary"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
